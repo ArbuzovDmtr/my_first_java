@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 void main() {
 
-
+System.out.println("Ich hab keine Ahnung, wie mit Git zu arbeiten");
 
     }
 
